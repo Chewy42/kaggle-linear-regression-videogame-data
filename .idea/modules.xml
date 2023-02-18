@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/MatthewFavela-Titanic-Kaggle/.idea/MatthewFavela-Titanic-Kaggle.iml" filepath="$USER_HOME$/DataspellProjects/MatthewFavela-Titanic-Kaggle/.idea/MatthewFavela-Titanic-Kaggle.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/playground-1/.idea/playground-1.iml" filepath="$USER_HOME$/DataspellProjects/playground-1/.idea/playground-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
     </modules>
